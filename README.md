@@ -1,2 +1,2 @@
 # learnGo
-learn Go language
+learn Go language.
